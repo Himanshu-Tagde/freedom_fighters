@@ -1,0 +1,108 @@
+[
+    {
+        "question": "Who is known as the 'Father of the Nation'?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh", "Sardar Vallabhbhai Patel"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Who led the Indian National Army (INA)?",
+        "options": ["Subhas Chandra Bose", "Lal Bahadur Shastri", "Chandra Sekhar Azad", "Dr. B.R. Ambedkar"],
+        "answer": "Subhas Chandra Bose"
+    },
+    {
+        "question": "Who is known as the 'Father of the Nation'?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Bhagat Singh", "Sardar Vallabhbhai Patel"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Who led the Indian National Army (INA)?",
+        "options": ["Subhas Chandra Bose", "Lal Bahadur Shastri", "Chandra Sekhar Azad", "Dr. B.R. Ambedkar"],
+        "answer": "Subhas Chandra Bose"
+    },
+    {
+        "question": "Who is the principal architect of the Constitution of India?",
+        "options": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel"],
+        "answer": "Dr. B.R. Ambedkar"
+    },
+    {
+        "question": "Which freedom fighter is known for his slogan 'Inquilab Zindabad'?",
+        "options": ["Bhagat Singh", "Chandra Sekhar Azad", "Lal Bahadur Shastri", "Subhas Chandra Bose"],
+        "answer": "Bhagat Singh"
+    },
+    {
+        "question": "Who was the first Deputy Prime Minister of India?",
+        "options": ["Sardar Vallabhbhai Patel", "Jawaharlal Nehru", "Mahatma Gandhi", "Lal Bahadur Shastri"],
+        "answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+        "question": "Who is known for leading the Quit India Movement in 1942?",
+        "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Lal Bahadur Shastri", "Rani Lakshmibai"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Which freedom fighter led the Salt March in 1930?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Dr. B.R. Ambedkar"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Who was the first woman to lead an army in India against the British?",
+        "options": ["Rani Lakshmibai", "Sarojini Naidu", "Begum Hazrat Mahal", "Kasturba Gandhi"],
+        "answer": "Rani Lakshmibai"
+    },
+    {
+        "question": "Who was the founder of the Hindustan Socialist Republican Association (HSRA)?",
+        "options": ["Bhagat Singh", "Chandra Sekhar Azad", "Lal Bahadur Shastri", "Subhas Chandra Bose"],
+        "answer": "Chandra Sekhar Azad"
+    },
+    {
+        "question": "Which freedom fighter is associated with the slogan 'Jai Jawan Jai Kisan'?",
+        "options": ["Lal Bahadur Shastri", "Jawaharlal Nehru", "Mahatma Gandhi", "Dr. B.R. Ambedkar"],
+        "answer": "Lal Bahadur Shastri"
+    },
+    {
+        "question": "Who was the first woman President of the Indian National Congress?",
+        "options": ["Sarojini Naidu", "Annie Besant", "Indira Gandhi", "Kamini Roy"],
+        "answer": "Annie Besant"
+    },
+    {
+        "question": "Who was known as 'Netaji' and played a major role in India's struggle for independence?",
+        "options": ["Subhas Chandra Bose", "Bhagat Singh", "Lal Bahadur Shastri", "Mahatma Gandhi"],
+        "answer": "Subhas Chandra Bose"
+    },
+    {
+        "question": "Who is credited with the leadership of the First War of Indian Independence in 1857?",
+        "options": ["Mangal Pandey", "Rani Lakshmibai", "Bahadur Shah Zafar", "Tatya Tope"],
+        "answer": "Mangal Pandey"
+    },
+    {
+        "question": "Who was the first Prime Minister of independent India?",
+        "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Sardar Vallabhbhai Patel", "Indira Gandhi"],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "question": "Which freedom fighter is associated with the slogan 'Swaraj is my birthright'?",
+        "options": ["Bal Gangadhar Tilak", "Mahatma Gandhi", "Lala Lajpat Rai", "Subhas Chandra Bose"],
+        "answer": "Bal Gangadhar Tilak"
+    },
+    {
+        "question": "Who founded the 'Servants of India Society'?",
+        "options": ["Gopal Krishna Gokhale", "Lala Lajpat Rai", "Dadabhai Naoroji", "V. O. Chidambaram Pillai"],
+        "answer": "Gopal Krishna Gokhale"
+    },
+    {
+        "question": "Which freedom fighter is known for organizing the non-cooperation movement in 1920?",
+        "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Jawaharlal Nehru", "Bhagat Singh"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "question": "Who led the protest against Simon Commission in 1928?",
+        "options": ["Lala Lajpat Rai", "Chandra Sekhar Azad", "Bhagat Singh", "Subhas Chandra Bose"],
+        "answer": "Lala Lajpat Rai"
+    },
+    {
+        "question": "Who was the first Indian to win the Nobel Prize in Literature?",
+        "options": ["Rabindranath Tagore", "Sarojini Naidu", "C. V. Raman", "R. K. Narayan"],
+        "answer": "Rabindranath Tagore"
+    }
+
+]

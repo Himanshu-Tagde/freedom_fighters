@@ -1,0 +1,10 @@
+plotly==5.0.0
+streamlit
+pandas
+gtts
+SpeechRecognition
+mysql-connector-python
+matplotlib
+Pillow
+groq
+num2words

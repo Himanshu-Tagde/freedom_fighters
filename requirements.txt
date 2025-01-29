@@ -1,0 +1,11 @@
+SpeechRecognition
+mysql-connector-python
+matplotlib
+Pillow
+groq
+num2words
+streamlit==1.10.0
+pandas==1.5.3
+plotly==5.10.0
+numpy==1.23.3
+gtts==2.2.3

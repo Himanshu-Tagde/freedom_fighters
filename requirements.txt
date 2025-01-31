@@ -1,7 +1,6 @@
 SpeechRecognition==3.8.1
 mysql-connector-python==8.0.33
 matplotlib==3.7.1
-Pillow==9.4.0
 groq==0.16.0
 num2words==0.5.12
 streamlit==1.10.0
@@ -10,3 +9,5 @@ plotly==5.10.0
 numpy>=1.24.0
 gtts==2.2.3
 altair==4.2.2
+zlib
+Pillow==9.5.0

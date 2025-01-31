@@ -9,4 +9,4 @@ plotly==5.10.0
 numpy>=1.24.0
 gtts==2.2.3
 altair==4.2.2
-Pillow==9.5.0
+opencv-python
